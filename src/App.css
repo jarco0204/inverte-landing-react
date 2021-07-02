@@ -1,0 +1,6 @@
+/* This CSS sets the layout for every component */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}

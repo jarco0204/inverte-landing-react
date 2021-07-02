@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="auto" height="1080" viewBox="0 0 1920 1080" preserveAspectRatio="xMinYMin meet">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cf3"/>
+      <stop offset="1" stop-color="#f4fff2"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.721" y1="0.355" x2="0.721" y2="0.047" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#003556" stop-opacity="0"/>
+      <stop offset="1" stop-color="#efb20c" stop-opacity="0.204"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.279" y1="0.355" x2="0.279" y2="0.047" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#003556" stop-opacity="0"/>
+      <stop offset="1" stop-color="#2185c4" stop-opacity="0.204"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" y1="0.303" x2="0.5" y2="-0.005" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#040f15" stop-opacity="0"/>
+      <stop offset="1" stop-color="#146aa3" stop-opacity="0.204"/>
+    </linearGradient>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="1920" height="1080" fill="#f5f5f5"/>
+    <path id="Path_3" data-name="Path 3" d="M0,1080S572.441,498.978,684.344,832.723s525.815-122.017,525.815-122.017S1691.06,82.333,1840.163,608.1,2034.824,1080,2034.824,1080Z" transform="translate(-58.287)" fill="url(#linear-gradient)"/>
+    <g id="Component_1_1" data-name="Component 1 – 1" transform="translate(2082.041 284.366) rotate(-180)">
+      <path id="Path_1" data-name="Path 1" d="M480.681,683.863c265.473,0,480.681-153.088,480.681-341.931S746.154,0,480.681,0,0,153.088,0,341.931,215.208,683.863,480.681,683.863Z" transform="translate(981.168 93.327)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_4" data-name="Path 4" d="M599.421.315c331.051.174,599.495,139.224,599.585,310.577S930.8,621.013,599.748,620.839.254,481.615.163,310.262,268.37.141,599.421.315Z" transform="matrix(0.985, -0.174, 0.174, 0.985, 1461.634, 207.895)" fill="url(#linear-gradient-3)"/>
+      <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="742.521" cy="303.31" rx="742.521" ry="303.31" transform="translate(0 106.327)" fill="url(#linear-gradient-4)"/>
+    </g>
+  </g>
+</svg>
